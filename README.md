@@ -11,7 +11,7 @@ One install, every version from 1.7.10 to the latest – zoom, freelook, waypoin
 [![Latest release](https://img.shields.io/github/v/release/Tchipple/macaw-launcher-releases?style=for-the-badge&label=Latest&color=168bff)](https://github.com/Tchipple/macaw-launcher-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Tchipple/macaw-launcher-releases/total?style=for-the-badge&label=Downloads&color=ffd43b&labelColor=555)](https://github.com/Tchipple/macaw-launcher-releases/releases)
 
-<img src="assets/macaw-release.png" alt="Macaw Launcher" width="760" />
+<img src="assets/macaw-logo2.png" alt="Macaw Launcher" width="760" />
 
 </div>
 
