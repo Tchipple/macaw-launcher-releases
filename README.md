@@ -30,11 +30,10 @@ One install, every version from 1.7.10 to the latest – zoom, freelook, waypoin
 | 🚀 **One install** | Java, mod loaders and the client are set up for you. |
 | 🧩 **30+ built-in modules** | Toggle everything in game from the Macaw menu – no mod hunting. |
 | ⚡ **FPS Boost** | One switch for every performance feature: built-in optimisations, entity culling, dynamic FPS and more. |
-| 🔍 **Zoom & Freelook** | Zoom on <kbd>C</kbd>, orbit the camera on <kbd>Alt</kbd>. |
 | 🗺️ **Waypoints & World Map** | Your own markers and a full-screen map of everything you explored. |
 | 🎯 **PvP tools** | Custom crosshair, hitboxes, hit colour, 1.7 animations, Auto-GG. |
 | 🧱 **Every version** | 1.7.10 to the latest release on Fabric, Forge and NeoForge. |
-| 👥 **Accounts** | Several Microsoft accounts in one click, plus offline profiles for LAN. |
+| 👥 **Accounts** | Play with a Premium account, or with a cracked account! |
 
 ## Automatic updates
 
