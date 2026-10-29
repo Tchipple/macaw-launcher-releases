@@ -33,7 +33,7 @@ One install, every version from 1.7.10 to the latest – zoom, freelook, waypoin
 | 🗺️ **Waypoints & World Map** | Your own markers and a full-screen map of everything you explored. |
 | 🎯 **PvP tools** | Custom crosshair, hitboxes, hit colour, 1.7 animations, Auto-GG. |
 | 🧱 **Every version** | 1.7.10 to the latest release on Fabric, Forge and NeoForge. |
-| 👥 **Accounts** | Play with a Premium account, or with a cracked account! |
+| 👥 **Accounts** | Play with your Microsoft account, plus offline profiles under any name. |
 
 ## Automatic updates
 
