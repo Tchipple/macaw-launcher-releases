@@ -5,7 +5,7 @@
 # Macaw Launcher
 
 **A fast Minecraft launcher with the Macaw Client built in.**
-One install, every version from 1.7.10 to the latest – zoom, freelook, waypoints, a world map and an FPS boost, ready the moment you press Play.
+One install, every version from 1.7.10 to the latest and 72+ built-in modules – ready the moment you press Play.
 
 [![Download for Windows](https://img.shields.io/badge/Download-Windows-e53935?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Tchipple/macaw-launcher-releases/releases/latest/download/Macaw-Launcher-Setup.exe)
 [![Latest release](https://img.shields.io/github/v/release/Tchipple/macaw-launcher-releases?style=for-the-badge&label=Latest&color=168bff)](https://github.com/Tchipple/macaw-launcher-releases/releases/latest)
@@ -28,12 +28,10 @@ One install, every version from 1.7.10 to the latest – zoom, freelook, waypoin
 | | |
 |---|---|
 | 🚀 **One install** | Java, mod loaders and the client are set up for you. |
-| 🧩 **30+ built-in modules** | Toggle everything in game from the Macaw menu – no mod hunting. |
-| ⚡ **FPS Boost** | One switch for every performance feature: built-in optimisations, entity culling, dynamic FPS and more. |
-| 🗺️ **Waypoints & World Map** | Your own markers and a full-screen map of everything you explored. |
-| 🎯 **PvP tools** | Custom crosshair, hitboxes, hit colour, 1.7 animations, Auto-GG. |
+| 🧩 **72+ built-in modules** | For PvP, performance, your HUD, chat and more – toggle everything in game from the Macaw menu, no mod hunting. |
+| ⚡ **FPS Boost** | One switch turns on every performance feature. |
 | 🧱 **Every version** | 1.7.10 to the latest release on Fabric, Forge and NeoForge. |
-| 👥 **Accounts** | Play with your Microsoft account, plus offline profiles under any name. |
+| 👥 **Accounts** | Play with your Microsoft account, plus offline profiles under any name for LAN and single player. |
 
 ## Automatic updates
 
